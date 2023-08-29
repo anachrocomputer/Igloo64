@@ -32,3 +32,7 @@ I'm using Ubuntu 22.04 LTS which gives me KiCad V6.0.
 As I write this, the latest KiCad is V7.0,
 so I expect I'll upgrade when the next LTS release comes out.
 
+## PCB Screenshot ##
+![PCB screenshot](Igloo64_pcb.png "PCB screenshot")
+
+
