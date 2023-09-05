@@ -7,7 +7,7 @@
   (paper "A4")
   (title_block
     (title "Igloo64 Prototyping Board")
-    (date "2023-08-29")
+    (date "2023-09-05")
   )
 
   (layers
@@ -84,9 +84,9 @@
       (plotinvisibletext false)
       (sketchpadsonfab false)
       (subtractmaskfromsilk false)
-      (outputformat 1)
+      (outputformat 4)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
       (outputdirectory "")
     )
