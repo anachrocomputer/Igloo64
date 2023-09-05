@@ -33,9 +33,10 @@ As I write this, the latest KiCad is V7.0,
 so I expect I'll upgrade when the next LTS release comes out.
 
 ## PCB Screenshot ##
-Work-in-progress, showing air-wires and a few routed tracks.
-The main TQFP footprint and the four connectors surrounding it will be rotated by
-45 degrees before the tracks are routed to the connectors at the bottom.
+Work-in-progress, showing routed tracks.
+The main TQFP footprint and the four connectors surrounding it have been rotated by
+45 degrees before the tracks were routed to the connectors at the bottom.
+Those tracks are still a bit uneven, but they all connect correctly.
 Space at the curved top of the board will be adorned with LEDs,
 the bigger the better.
 ![PCB screenshot](Igloo64_pcb.png "PCB screenshot")
