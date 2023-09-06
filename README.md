@@ -8,7 +8,7 @@ VERY MUCH A WORK-IN-PROGRESS AND NOT TESTED BY MAKING A PCB YET.
 
 Many modern chips are only available in surface-mount packages.
 Some have the audacity to have 64 pins, and not only that, pins on all four sides.
-How can we make such a package fit onto a standard solderless breadboard?
+How can we make such a heinous package fit onto a standard solderless breadboard?
 
 ## The Solution ##
 
@@ -37,7 +37,7 @@ Work-in-progress, showing routed tracks.
 The main TQFP footprint and the four connectors surrounding it have been rotated by
 45 degrees before the tracks were routed to the connectors at the bottom.
 Those tracks are still a bit uneven, but they all connect correctly.
-Space at the curved top of the board will be adorned with LEDs,
+Space at the curved top of the board may be adorned with LEDs,
 the bigger the better.
 ![PCB screenshot](Igloo64_pcb.png "PCB screenshot")
 
@@ -45,6 +45,7 @@ the bigger the better.
 KiCad's 3D rendering of the PCB as it is so far.
 The portion on the right-hand side will be snapped off using mouse-bites and used
 to connect the main board to the solderless breadboard.
+Any colour LEDs may be fitted, up to 10mm in diameter.
 The user may choose to use female headers instead of male ones,
 or simply not fit headers at all if they're not needed.
 Brightly coloured headers are also optional.
