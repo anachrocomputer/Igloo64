@@ -6,7 +6,7 @@
 
   (title_block
     (title "Igloo64 Prototyping Board")
-    (date "2023-09-06")
+    (date "2023-09-07")
   )
 
   (lib_symbols
@@ -6120,7 +6120,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x02") (at 234.95 125.73 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 02fe3007-3dad-45d0-86bf-93301c863614)
-    (property "Reference" "J19" (id 0) (at 237.49 125.7299 0)
+    (property "Reference" "J17" (id 0) (at 237.49 125.7299 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Conn_01x02" (id 1) (at 237.49 128.2699 0)
@@ -6158,7 +6158,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x02") (at 234.95 151.13 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 064d2ceb-ed0a-4fc8-8669-798ae2c1911a)
-    (property "Reference" "J13" (id 0) (at 237.49 151.1299 0)
+    (property "Reference" "J19" (id 0) (at 237.49 151.1299 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Conn_01x02" (id 1) (at 237.49 153.6699 0)
@@ -6196,7 +6196,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x02") (at 172.72 151.13 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1cc4e6ca-7db4-47ba-ad5f-395ff4bd52f8)
-    (property "Reference" "J15" (id 0) (at 175.26 151.1299 0)
+    (property "Reference" "J13" (id 0) (at 175.26 151.1299 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Conn_01x02" (id 1) (at 175.26 153.6699 0)
@@ -6260,7 +6260,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x02") (at 172.72 138.43 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1eeea5a2-6e95-4b54-9d6a-5b6831dfd5df)
-    (property "Reference" "J16" (id 0) (at 175.26 138.4299 0)
+    (property "Reference" "J12" (id 0) (at 175.26 138.4299 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Conn_01x02" (id 1) (at 175.26 140.9699 0)
@@ -6567,7 +6567,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x02") (at 203.2 138.43 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 83faa0eb-1191-42c7-8b7e-046a3985374c)
-    (property "Reference" "J11" (id 0) (at 205.74 138.4299 0)
+    (property "Reference" "J15" (id 0) (at 205.74 138.4299 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Conn_01x02" (id 1) (at 205.74 140.9699 0)
@@ -6605,7 +6605,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x02") (at 203.2 151.13 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 878e1cc7-ebf3-425e-88f6-6da61cd5b272)
-    (property "Reference" "J17" (id 0) (at 205.74 151.1299 0)
+    (property "Reference" "J16" (id 0) (at 205.74 151.1299 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Conn_01x02" (id 1) (at 205.74 153.6699 0)
@@ -6707,7 +6707,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x02") (at 172.72 125.73 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c00803a4-950c-480b-a15b-fba49968d349)
-    (property "Reference" "J12" (id 0) (at 175.26 125.7299 0)
+    (property "Reference" "J11" (id 0) (at 175.26 125.7299 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Conn_01x02" (id 1) (at 175.26 128.2699 0)
@@ -7026,31 +7026,31 @@
     (path "/1d63e543-da43-4e59-98e6-ba12eb8658af"
       (reference "J10") (unit 1) (value "Conn_01x32") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x32_P2.54mm_Vertical")
     )
-    (path "/83faa0eb-1191-42c7-8b7e-046a3985374c"
+    (path "/c00803a4-950c-480b-a15b-fba49968d349"
       (reference "J11") (unit 1) (value "Conn_01x02") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical")
     )
-    (path "/c00803a4-950c-480b-a15b-fba49968d349"
+    (path "/1eeea5a2-6e95-4b54-9d6a-5b6831dfd5df"
       (reference "J12") (unit 1) (value "Conn_01x02") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical")
     )
-    (path "/064d2ceb-ed0a-4fc8-8669-798ae2c1911a"
+    (path "/1cc4e6ca-7db4-47ba-ad5f-395ff4bd52f8"
       (reference "J13") (unit 1) (value "Conn_01x02") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical")
     )
     (path "/3d56484a-a502-488c-b530-142d13df5105"
       (reference "J14") (unit 1) (value "Conn_01x02") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical")
     )
-    (path "/1cc4e6ca-7db4-47ba-ad5f-395ff4bd52f8"
+    (path "/83faa0eb-1191-42c7-8b7e-046a3985374c"
       (reference "J15") (unit 1) (value "Conn_01x02") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical")
     )
-    (path "/1eeea5a2-6e95-4b54-9d6a-5b6831dfd5df"
+    (path "/878e1cc7-ebf3-425e-88f6-6da61cd5b272"
       (reference "J16") (unit 1) (value "Conn_01x02") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical")
     )
-    (path "/878e1cc7-ebf3-425e-88f6-6da61cd5b272"
+    (path "/02fe3007-3dad-45d0-86bf-93301c863614"
       (reference "J17") (unit 1) (value "Conn_01x02") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical")
     )
     (path "/dfe75248-9092-4522-b4fb-e1798c310239"
       (reference "J18") (unit 1) (value "Conn_01x02") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical")
     )
-    (path "/02fe3007-3dad-45d0-86bf-93301c863614"
+    (path "/064d2ceb-ed0a-4fc8-8669-798ae2c1911a"
       (reference "J19") (unit 1) (value "Conn_01x02") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical")
     )
   )
