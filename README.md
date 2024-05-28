@@ -2,7 +2,8 @@
 
 PCB design to adapt a 64-pin TQFP part to a standard solderless breadboard.
 
-VERY MUCH A WORK-IN-PROGRESS AND NOT TESTED BY MAKING A PCB YET.
+> [!WARNING]
+> Very much a work-in-progress and not tested by making a PCB yet.
 
 ## The Problem ##
 
