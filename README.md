@@ -24,7 +24,9 @@ This design has been created using the Open Source CAD package KiCad, V8.0.
 To install it on Ubuntu Linux:
 
 `sudo add-apt-repository ppa:kicad/kicad-8.0-releases`
+
 `sudo apt update`
+
 `sudo apt install kicad`
 
 I'm using Ubuntu 22.04 LTS which would give me the very outdated KiCad V6.0 by default.
@@ -38,6 +40,7 @@ The main TQFP footprint and the four connectors surrounding it have been rotated
 Those tracks are still a bit uneven, but they all connect correctly.
 Space at the curved top of the board may be adorned with LEDs,
 the bigger the better.
+
 ![PCB screenshot](Igloo64_pcb.png "PCB screenshot")
 
 ## PCB 3D Render ##
@@ -48,6 +51,7 @@ Any colour LEDs may be fitted, up to 10mm in diameter.
 The user may choose to use female headers instead of male ones,
 or simply not fit headers at all if they're not needed.
 Brightly coloured headers are also optional.
+
 ![PCB render](Igloo64_render.png "PCB render")
 
 
