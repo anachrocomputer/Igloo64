@@ -19,19 +19,17 @@ The vertical board has a rounded top, reminiscent of an igloo, hence the name.
 
 ## KiCad ##
 
-This design has been created using the Open Source CAD package KiCad, V6.0.
+This design has been created using the Open Source CAD package KiCad, V8.0.
 
 To install it on Ubuntu Linux:
 
+`sudo add-apt-repository ppa:kicad/kicad-8.0-releases`
+`sudo apt update`
 `sudo apt install kicad`
 
-To make the snazzy 3D rendering work, install the additional package:
-
-`sudo apt install kicad-packages3d`
-
-I'm using Ubuntu 22.04 LTS which gives me KiCad V6.0.
-As I write this, the latest KiCad is V7.0,
-so I expect I'll upgrade when the next LTS release comes out.
+I'm using Ubuntu 22.04 LTS which would give me the very outdated KiCad V6.0 by default.
+As I write this, the latest KiCad is V8.0.5,
+which is a big upgrade from the V6.0 which I started with.
 
 ## PCB Screenshot ##
 Work-in-progress, showing routed tracks.
