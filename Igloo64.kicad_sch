@@ -6,7 +6,9 @@
 	(paper "A4")
 	(title_block
 		(title "Igloo64 Prototyping Board")
-		(date "2023-09-07")
+		(date "2024-10-14")
+		(rev "1.0")
+		(company "John Honniball")
 	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x02"
