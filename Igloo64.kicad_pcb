@@ -276,7 +276,7 @@
 		(descr "LED, diameter 10.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LED10-4500RT%23KIN.pdf")
 		(tags "LED diameter 10.0mm 2 pins")
 		(property "Reference" "D7"
-			(at 1.27 -6.56 135)
+			(at -5.460192 0.449013 135)
 			(layer "F.SilkS")
 			(uuid "aabe2b69-58e7-46a6-864e-9df762042e58")
 			(effects
@@ -754,7 +754,7 @@
 		(descr "Through hole angled socket strip, 2x32, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated")
 		(tags "Through hole angled socket strip THT 2x32 2.54mm double row")
 		(property "Reference" "J7"
-			(at -5.65 -2.77 90)
+			(at 1.995 -1.265 180)
 			(layer "F.SilkS")
 			(uuid "742e5992-cc0c-47c2-b78c-c49207a3a704")
 			(effects
@@ -4458,7 +4458,7 @@
 		(descr "LED, diameter 10.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LED10-4500RT%23KIN.pdf")
 		(tags "LED diameter 10.0mm 2 pins")
 		(property "Reference" "D3"
-			(at 1.27 -6.56 45)
+			(at -5.460192 0.449013 45)
 			(layer "F.SilkS")
 			(uuid "c5f1a6cc-3527-4bce-88bd-023a2d20bc2d")
 			(effects
@@ -4674,7 +4674,7 @@
 		(descr "Through hole straight pin header, 2x16, 2.54mm pitch, double rows")
 		(tags "Through hole pin header THT 2x16 2.54mm double row")
 		(property "Reference" "J2"
-			(at 1.27 -2.33 135)
+			(at -2.356756 18.600987 -135)
 			(layer "F.SilkS")
 			(uuid "be118b00-015b-445a-8fc5-7bf35350fda8")
 			(effects
@@ -5286,7 +5286,7 @@
 		(descr "LED, diameter 10.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LED10-4500RT%23KIN.pdf")
 		(tags "LED diameter 10.0mm 2 pins")
 		(property "Reference" "D5"
-			(at 1.27 -6.56 0)
+			(at -5.08 0.635 0)
 			(layer "F.SilkS")
 			(uuid "73239949-0d7b-4b50-b21b-9d7851fcac78")
 			(effects
@@ -7253,7 +7253,7 @@
 		(descr "Through hole straight pin header, 2x16, 2.54mm pitch, double rows")
 		(tags "Through hole pin header THT 2x16 2.54mm double row")
 		(property "Reference" "J4"
-			(at 1.27 -2.33 45)
+			(at -2.361756 18.600988 135)
 			(layer "F.SilkS")
 			(uuid "60dcd1fe-7079-4cb8-b509-04558ccf5097")
 			(effects
@@ -8127,8 +8127,9 @@
 		(descr "Through hole straight pin header, 2x32, 2.54mm pitch, double rows")
 		(tags "Through hole pin header THT 2x32 2.54mm double row")
 		(property "Reference" "J8"
-			(at 1.27 -2.33 0)
+			(at 1.275 -4.44 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "00d22a94-4415-4f7c-bba5-9ac8913c5f96")
 			(effects
 				(font
@@ -9091,7 +9092,7 @@
 		(descr "Through hole straight socket strip, 1x02, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
 		(tags "Through hole socket strip THT 1x02 2.54mm single row")
 		(property "Reference" "J15"
-			(at 0 -2.77 90)
+			(at 1.245 -2.77 90)
 			(layer "F.SilkS")
 			(uuid "a0e841de-df4f-48a2-80f9-2fe7a47e638b")
 			(effects
@@ -9353,7 +9354,7 @@
 		(descr "Through hole straight socket strip, 1x02, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
 		(tags "Through hole socket strip THT 1x02 2.54mm single row")
 		(property "Reference" "J19"
-			(at 0 -2.77 0)
+			(at 1.245 -2.56 0)
 			(layer "F.SilkS")
 			(uuid "15b96d14-7b8c-43f8-82d6-e5424eb06ac5")
 			(effects
@@ -9615,7 +9616,7 @@
 		(descr "LED, diameter 10.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LED10-4500RT%23KIN.pdf")
 		(tags "LED diameter 10.0mm 2 pins")
 		(property "Reference" "D9"
-			(at 1.27 -6.56 90)
+			(at -5.075 0.635 180)
 			(layer "F.SilkS")
 			(uuid "f8b15129-2e8a-4c01-b678-63b9da3d4fd0")
 			(effects
@@ -9831,7 +9832,7 @@
 		(descr "Through hole straight pin header, 2x16, 2.54mm pitch, double rows")
 		(tags "Through hole pin header THT 2x16 2.54mm double row")
 		(property "Reference" "J5"
-			(at 1.27 -2.33 45)
+			(at -2.361756 19.499013 135)
 			(layer "F.SilkS")
 			(uuid "4c6a1dad-7acf-4a52-99b0-316025d1ab04")
 			(effects
@@ -10443,7 +10444,7 @@
 		(descr "Through hole straight pin header, 2x16, 2.54mm pitch, double rows")
 		(tags "Through hole pin header THT 2x16 2.54mm double row")
 		(property "Reference" "J3"
-			(at 1.27 -2.33 135)
+			(at -2.361756 18.600988 -135)
 			(layer "F.SilkS")
 			(uuid "21ca1c08-b8a3-4bdc-9356-70a4d86ee444")
 			(effects
@@ -11317,7 +11318,7 @@
 		(descr "LED, diameter 10.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LED10-4500RT%23KIN.pdf")
 		(tags "LED diameter 10.0mm 2 pins")
 		(property "Reference" "D6"
-			(at 1.27 -6.56 157.5)
+			(at -5.320648 0.670049 157.5)
 			(layer "F.SilkS")
 			(uuid "ef88a206-a08a-4f86-8abe-2698c9bd5743")
 			(effects
@@ -11533,7 +11534,7 @@
 		(descr "LED, diameter 10.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LED10-4500RT%23KIN.pdf")
 		(tags "LED diameter 10.0mm 2 pins")
 		(property "Reference" "D2"
-			(at 1.27 -6.56 67.5)
+			(at -5.42232 0.184041 67.5)
 			(layer "F.SilkS")
 			(uuid "b1ccf5f5-104d-4b5a-861d-5cc409747b84")
 			(effects
@@ -11749,7 +11750,7 @@
 		(descr "LED, diameter 10.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LED10-4500RT%23KIN.pdf")
 		(tags "LED diameter 10.0mm 2 pins")
 		(property "Reference" "D1"
-			(at 1.27 -6.56 90)
+			(at -5.075 0 90)
 			(layer "F.SilkS")
 			(uuid "b340d891-744e-4213-81be-c39d26ecb636")
 			(effects
@@ -11965,7 +11966,7 @@
 		(descr "Through hole straight pin header, 2x32, 2.54mm pitch, double rows")
 		(tags "Through hole pin header THT 2x32 2.54mm double row")
 		(property "Reference" "J6"
-			(at 1.27 -2.33 90)
+			(at 5.085 0.005 180)
 			(layer "F.SilkS")
 			(uuid "2044d208-7f41-4af7-97a2-547985301345")
 			(effects
@@ -13046,7 +13047,7 @@
 		(descr "LED, diameter 10.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LED10-4500RT%23KIN.pdf")
 		(tags "LED diameter 10.0mm 2 pins")
 		(property "Reference" "D8"
-			(at 1.27 -6.56 112.5)
+			(at -5.128318 0.260274 112.5)
 			(layer "F.SilkS")
 			(uuid "e0ba3b83-169e-419a-a329-750224388c42")
 			(effects
@@ -13379,7 +13380,7 @@
 		(descr "Through hole straight socket strip, 1x02, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
 		(tags "Through hole socket strip THT 1x02 2.54mm single row")
 		(property "Reference" "J11"
-			(at 0 -2.77 0)
+			(at 1.245 -2.56 0)
 			(layer "F.SilkS")
 			(uuid "8c3c840c-72f4-4c7d-8f48-bd92e7cbfd96")
 			(effects
@@ -13641,7 +13642,7 @@
 		(descr "LED, diameter 10.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LED10-4500RT%23KIN.pdf")
 		(tags "LED diameter 10.0mm 2 pins")
 		(property "Reference" "D4"
-			(at 1.27 -6.56 22.5)
+			(at -5.07866 0.645626 22.5)
 			(layer "F.SilkS")
 			(uuid "c625cbfa-c8f4-4256-862a-5e44678f1873")
 			(effects
@@ -14121,6 +14122,7 @@
 		(property "Reference" "J10"
 			(at 0 2.33 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "dff5dc14-121e-4820-8bdd-194a2b3cb201")
 			(effects
 				(font
@@ -14716,6 +14718,7 @@
 		(property "Reference" "J9"
 			(at 0 2.33 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "2335745d-4b86-4498-9fad-6d2729137fe3")
 			(effects
 				(font
