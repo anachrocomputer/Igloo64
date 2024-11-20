@@ -2,9 +2,6 @@
 
 PCB design to adapt a 64-pin TQFP part to a standard solderless breadboard.
 
-> [!WARNING]
-> Very much a work-in-progress and not tested by making a PCB yet.
-
 ## The Problem ##
 
 Many modern chips are only available in surface-mount packages.
@@ -53,5 +50,10 @@ or simply not fit headers at all if they're not needed.
 Brightly coloured headers are also optional.
 
 ![PCB render](Igloo64_render.png "PCB render")
+
+## PCB Photo ##
+Photo of the PCB, as manufactured.
+
+![PCB photo](Igloo64_photo1.jpg "PCB photo")
 
 
