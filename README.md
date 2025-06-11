@@ -1,3 +1,5 @@
+![Static Badge](https://img.shields.io/badge/CAD-KiCAD_8-green "CAD:KiCAD 8")
+
 # Igloo64 #
 
 PCB design to adapt a 64-pin TQFP part to a standard solderless breadboard.
